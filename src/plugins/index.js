@@ -1,5 +1,4 @@
 
-import 'vuetify/styles'
 import router from '../router'
 import pinia from './pinia'
 import vuetify from './vuetify'
